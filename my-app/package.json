@@ -4,6 +4,7 @@
   "homepage": "http://catherinesung.me",
   "private": true,
   "dependencies": {
+    "dot-prop": ">=4.2.1",
     "anix": "^0.3.3",
     "jquery": "^3.5.1",
     "particles-bg": "^2.3.12",
