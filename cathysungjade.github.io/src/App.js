@@ -8,7 +8,6 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 class App extends Component {
 
@@ -52,7 +51,6 @@ class App extends Component {
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
-        <Route exact path={`/`} render={ (routerProps) => < Header routerProps={routerProps} setUpGame={this.setUpGame} />} />
       </div>
     );
   }
