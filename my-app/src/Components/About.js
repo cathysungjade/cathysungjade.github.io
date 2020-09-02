@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import profilepic from "../../src/profilepic.jpg"
+import {profilepic} from "../../src/profilepic.jpg"
 
 class About extends Component {
   render() {
@@ -21,7 +21,7 @@ class About extends Component {
       <section id="about">
       <div className="row"  >
          <div className="three columns" style = {{width:250, height:250}}>
-            <img className="profile-pic"  style = {{width:"100%", height: "100%"}} src={profilepic}  />
+            <img className = "profile-pic" style = {{width:"100%", height: "100%"}} src={profilepic}  />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
