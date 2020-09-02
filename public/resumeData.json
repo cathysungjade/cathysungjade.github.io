@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name":"Hi I'm Catherine!",
+    "description":"Nice to Meet You!",
+    "image":"profilepic.jpg",
+    "bio":"I am currently a second year Computer Science and Finance student at Waterloo. I just finished my first internship as a Software Developer and I am looking for Winter 2021 opportunities! Apart from code, I like painting and drawing cartoons in my free time! ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "cjadesung@gmail.com",
+    "phone": "647-778-0297",
+    
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.catherinesung.me",
+    "resumedownload":"2020CatherineResume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/sori0403/",
+        "className":"fa fa-facebook"
+      },
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/catherine-sung-49992219b/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/cathysungjade",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Waterloo",
+        "degree":"Computer Science and Finance",
+      
+        "description":"Double degree program for computer science and finance. "
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"Elements of Knowledge",
+        "title":"Software Developer ",
+        "years":"May 2020 - Present",
+        "description":"Developed a web application using React and Javascript."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+     
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"EOK ARCADE ",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.eokarcade.com"
+      }
+    ]
+  }
+}
