@@ -9,13 +9,13 @@
     "phone": "647-778-0297",
     
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Markham",
+      "state":"",
+      "zip": ""
     },
     "website": "http://www.catherinesung.me",
-    "resumedownload":"2020CatherineResume.pdf",
+    "resumedownload":"cresume.PDF",
     "social":[
       {
         "name":"facebook",
