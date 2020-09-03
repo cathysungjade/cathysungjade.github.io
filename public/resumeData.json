@@ -9,10 +9,10 @@
     "phone": "647-778-0297",
     
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Markham",
+      "state":"Ontario",
+      "zip": ""
     },
     "website": "http://www.catherinesung.me",
     "resumedownload":"2020CatherineResume.pdf",
@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"This is my resume",
     "education":[
       {
         "school":"Waterloo",
@@ -59,7 +59,7 @@
     "skills":[
       {
         "name":"Python",
-        "level":"80%"
+        "level":"70%"
       },
      
       {
@@ -68,19 +68,19 @@
       },
       {
         "name":"HTML/CSS",
-        "level":"90%"
-      },
-      {
-        "name":"Javascript",
         "level":"80%"
       },
       {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
         "name":"C",
-        "level":"70%"
+        "level":"75%"
       },
       {
         "name":"SQL",
-        "level":"50%"
+        "level":"30%"
       }
     ]
   },
