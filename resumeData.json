@@ -52,7 +52,13 @@
         "company":"Elements of Knowledge",
         "title":"Software Developer ",
         "years":"May 2020 - Present",
-        "description":"Developed a web application using React and Javascript."
+        "description":" Built an educational application using ReactJS "
+      }
+      {
+        "company":"Soigne",
+        "title":"Financial Analyst ",
+        "years":"May 2019 - September 2019",
+        "description":"Conducted financial modeling on various financial products as well as measure, analyze and forecast performance in conjunction with operating plans"
       }
       
     ],
